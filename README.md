@@ -24,3 +24,7 @@ jQuery
 Bootstrap
 PHP Mailer
 (Diğer kütüphaneler)
+![4](https://github.com/diyardemir47/petelok/assets/99801830/b546a687-4ad0-4ee0-94c8-6a6554439a9b)
+![3](https://github.com/diyardemir47/petelok/assets/99801830/0e4adca9-038b-4f62-849b-db3fdfc8c51a)
+![2](https://github.com/diyardemir47/petelok/assets/99801830/94cad5b7-1dcb-46cd-84df-83097bfc4f3e)
+![1](https://github.com/diyardemir47/petelok/assets/99801830/3586d83c-5d6f-470a-93ea-02713df26c48)
